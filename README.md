@@ -1,5 +1,5 @@
 # Haskell-Quine-McCluskey-Algorithm
-Haskell implementation of the Quine–McCluskey algorithm
+Haskell implementation of the Quine–McCluskey algorithm I developed during my first year in university.
 
 Usage: runghc qm.hs "INPUT_FILE" <br>
 Input file syntax: on the first line list variables separated by spaces, then on
